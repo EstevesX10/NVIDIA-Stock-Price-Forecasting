@@ -3,12 +3,12 @@
 </div>
 
 <p align="center" width="100%">
-    <img src="./NVIDIA Stock Predictor/" width="20%" height="20%" />
+    <img src="./NVIDIA Stock Predictor/Assets/StockForecasting.gif" width="60%" height="60%" />
 </p>
 
 <div align="center">
     <a>
-        <img src="https://img.shields.io/badge/Made%20with-Python-BD162C?style=flat-square&logo=Python&logoColor=BD162C">
+        <img src="https://img.shields.io/badge/Made%20with-Python-BD162C?style=for-the-badge&logo=Python&logoColor=BD162C">
     </a>
     <a>
         <img src="https://img.shields.io/badge/Made%20with-Jupyter-BD162C?style=for-the-badge&logo=Jupyter&logoColor=BD162C">
