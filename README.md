@@ -34,7 +34,9 @@
 
 ## Project Overview
 
-> ADD PROJECT OVERVIEW
+This Project mainly focuses on trying to predict the ``NVIDIA Stock's Market Price`` using data from the yahoo Finance market history alongside with ``Long Short-Term Memory Models`` (LSTM's).
+
+The prediction methodology is based on ``Univariate Forecasting``, which means that we are only to consider ``n`` previous values to predict the subsequent/next one.
 
 ## Project Development (Dependencies & Execution)
 
