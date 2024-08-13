@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>NVIDIA Stock Predictor</h1>
+    <h1>NVIDIA Stock Price Forecasting</h1>
 </div>
 
 <p align="center" width="100%">
