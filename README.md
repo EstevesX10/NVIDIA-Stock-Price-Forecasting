@@ -60,6 +60,10 @@ The user cannnot only ``change the Stock`` being studied but also the ``time int
 > ADD A PLOT WITH THE FINAL GRAPH AND A DESCRIPTION OF IT 
 > MENTION: THE IMPACT OF THE TRAINNING DATA ON THE MODEL'S TEST PERFORMANCE AND HOW IT CAN BE AVOIDED TO OBTAIN BETTER RESULTS
 
+<p align="center" width="100%">
+    <img src="./NVIDIA Stock Price Forecasting/Assets/NVDA_Stock_Price_Forecasting.png" width="60%" height="60%" />
+</p>
+
 ### CHANGE THE REPO'S NAME
 
 <div align="right">
