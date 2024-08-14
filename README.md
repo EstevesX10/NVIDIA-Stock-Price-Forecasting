@@ -27,7 +27,7 @@
     <a href="">
         <img src="https://img.shields.io/github/stars/EstevesX10/NVIDIA-Stock-Price-Forecasting?style=flat&logo=adafruit&logoColor=9ACFC3&logoSize=auto&label=Stars&color=9ACFC3">
     </a>
-    <a href="https://github.com/EstevesX10/NVIDIA-Stock-Price-Forecasting/blob/main/requirements.txt">
+    <a href="https://github.com/EstevesX10/NVIDIA-Stock-Price-Forecasting/blob/main/DEPENDENCIES.md">
         <img src="https://img.shields.io/badge/Dependencies-DEPENDENCIES.md-white?style=flat&logo=anaconda&logoColor=9ACFC3&logoSize=auto&color=9ACFC3"> 
     </a>
 </div>
