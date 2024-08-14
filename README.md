@@ -45,11 +45,15 @@ This project was developed using a `Notebook`. Therefore if you're looking forwa
 Therefore, for more informations regarding the **Virtual Environment** used in Anaconda, consider checking the [DEPENDENCIES.md](https://github.com/EstevesX10/NVIDIA-Stock-Price-Forecasting/blob/main/DEPENDENCIES.md) file.
 
 
-## Important Considerations [REVIEW LATER]
+## Additional Considerations
 
-The Notebook contains executable code that allows to properly extract the dataset from the yahoo finance market, and consequently preprocess them to be later fed to a LSTM model. The code which allows to perform these tasks is not fully developed on the Notebook bu rather on the CustomUtilities python package developed. 
+The Notebook contains** executable code** that allows to properly ``extract the dataset`` from the yahoo finance market database, and therefore **preprocess it** in order to be later fed to a ``LSTM model``.
 
-Moreover, it is possible to change the configuration used in the project so that the user can perform other stock price forecastings. Therefore, the user can change not only the Stock being studied but also the time interval to be considered in the model's trainning.
+The code which allows to perform these tasks **is not fully developed** on the Notebook but rather on the ``CustomUtilities`` python package. 
+
+Moreover, it is possible to ``change the configuration`` used in the project so that the user can **perform other stock price forecastings**. 
+
+The user cannnot only ``change the Stock`` being studied but also the ``time interval`` to be considered in the **model's trainning** which directly **impacts it's performance**.
 
 ## Project Results
 
