@@ -9,9 +9,15 @@ def plot_model_performance(dates_vector:np.ndarray, predictions_vector:np.ndarra
     := param: y_vector - Array with the real values from the stock market price history
     := param: plot_legend - Description to differentiate the multiple vectors
     """
+    # Add the data / information to the plot
     plt.plot(dates_vector, predictions_vector)
     plt.plot(dates_vector, y_vector)
+    
+    # Add a Legend
     plt.legend(plot_legend)
+
+    # Resize the text on the axis
+    plt.rc('font', size=6.6)
 
 def plot_model_overall_performance(dates_list:list, preds_list:list, y_list:list, plot_legend:list) -> None:
     # This function allows to Visualize the Model's performance throughout Train, Validation and Testing
@@ -21,7 +27,7 @@ def plot_model_overall_performance(dates_list:list, preds_list:list, y_list:list
     := param: y_list - Python List with all the vectors composed by the actual / real values used in Trainning, Validation and Testing
     := param: plot_legend - Description to differentiate the multiple vectors
     """
-    
+
     # Checking the size of the given lists to make sure they match
     assert len(dates_list) == len(preds_list) and len(preds_list) == len(y_list), "Lists with different sizes!"
     
@@ -32,3 +38,6 @@ def plot_model_overall_performance(dates_list:list, preds_list:list, y_list:list
 
     # Add a Legend
     plt.legend(plot_legend)
+    
+    # Resize the text on the axis
+    plt.rc('font', size=7)
