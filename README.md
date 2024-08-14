@@ -8,10 +8,10 @@
 
 <div align="center">
     <a>
-        <img src="https://img.shields.io/badge/Made%20with-Python-BD162C?style=for-the-badge&logo=Python&logoColor=BD162C">
+        <img src="https://img.shields.io/badge/Made%20with-Python-9ACFC3?style=for-the-badge&logo=Python&logoColor=9ACFC3">
     </a>
     <a>
-        <img src="https://img.shields.io/badge/Made%20with-Jupyter-BD162C?style=for-the-badge&logo=Jupyter&logoColor=BD162C">
+        <img src="https://img.shields.io/badge/Made%20with-Jupyter-9ACFC3?style=for-the-badge&logo=Jupyter&logoColor=9ACFC3">
     </a>
 </div>
 
@@ -19,16 +19,16 @@
 
 <div align="center">
     <a href="https://github.com/EstevesX10/NVIDIA-Stock-Price-Forecasting/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/EstevesX10/NVIDIA-Stock-Price-Forecasting?style=flat&logo=gitbook&logoColor=BD162C&label=License&color=BD162C">
+        <img src="https://img.shields.io/github/license/EstevesX10/NVIDIA-Stock-Price-Forecasting?style=flat&logo=gitbook&logoColor=9ACFC3&label=License&color=9ACFC3">
     </a>
     <a href="">
-        <img src="https://img.shields.io/github/repo-size/EstevesX10/NVIDIA-Stock-Price-Forecasting?style=flat&logo=googlecloudstorage&logoColor=BD162C&logoSize=auto&label=Repository%20Size&color=BD162C">
+        <img src="https://img.shields.io/github/repo-size/EstevesX10/NVIDIA-Stock-Price-Forecasting?style=flat&logo=googlecloudstorage&logoColor=9ACFC3&logoSize=auto&label=Repository%20Size&color=9ACFC3">
     </a>
     <a href="">
-        <img src="https://img.shields.io/github/stars/EstevesX10/NVIDIA-Stock-Price-Forecasting?style=flat&logo=adafruit&logoColor=BD162C&logoSize=auto&label=Stars&color=BD162C">
+        <img src="https://img.shields.io/github/stars/EstevesX10/NVIDIA-Stock-Price-Forecasting?style=flat&logo=adafruit&logoColor=9ACFC3&logoSize=auto&label=Stars&color=9ACFC3">
     </a>
     <a href="https://github.com/EstevesX10/NVIDIA-Stock-Price-Forecasting/blob/main/requirements.txt">
-        <img src="https://img.shields.io/badge/Dependencies-DEPENDENCIES.md-white?style=flat&logo=anaconda&logoColor=BD162C&logoSize=auto&color=BD162C"> 
+        <img src="https://img.shields.io/badge/Dependencies-DEPENDENCIES.md-white?style=flat&logo=anaconda&logoColor=9ACFC3&logoSize=auto&color=9ACFC3"> 
     </a>
 </div>
 
