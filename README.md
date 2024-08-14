@@ -68,8 +68,6 @@ To ``improve the model's performance``, we could consider the following **approa
 - ``Extend the training process`` beyond 100 epochs while keeping in mind the possibility of the model **overfitting** the data.
 - ``Use alternative sampling techniques``, such as **stratified sampling**, to equally partition the data. This would enable the model to **learn and predict stock market values** during both **low and high price fluctuation periods**.
 
-### CHANGE THE REPO'S NAME
-
 <div align="right">
 <sub>
 
