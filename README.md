@@ -3,7 +3,7 @@
 </div>
 
 <p align="center" width="100%">
-    <img src="./NVIDIA Stock Price Forecasting/Assets/StockAnalysis.gif" width="50%" height="50%" />
+    <img src="./NVIDIA Stock Price Forecasting/Assets/StockAnalysis.gif" width="55%" height="55%" />
 </p>
 
 <div align="center">
