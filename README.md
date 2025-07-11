@@ -3,7 +3,7 @@
 </div>
 
 <p align="center" width="100%">
-    <img src="./NVIDIA Stock Price Forecasting/Assets/StockAnalysis.gif" width="55%" height="55%" />
+    <img src="./NVIDIA Stock Price Forecasting/Assets/StockAnalysis.gif" width="55%" />
 </p>
 
 <div align="center">
@@ -58,7 +58,7 @@ The user cannnot only ``change the Stock`` being studied but also the ``time int
 ## Project Results
 
 <p align="center" width="100%">
-    <img src="./NVIDIA Stock Price Forecasting/Assets/NVDA_Stock_Price_Forecasting.png" width="60%" height="60%" />
+    <img src="./NVIDIA Stock Price Forecasting/Assets/NVDA_Stock_Price_Forecasting.png" width="60%" />
 </p>
 
 Based on the graph illustrating the model's performance across the **Training**, **Validation**, and **Testing** phases, the model **effectively learned** from the provided data and demonstrated accurate stock market price predictions during validation. However, it faced ``significant challenges`` during the Testing phase. Due to the ``high volatility`` in stock market values, the LSTM struggled to **accurately predict** new data instances.
